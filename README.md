@@ -8,8 +8,12 @@ web example for student internship data collection data
 
 **3. Now With UI for much wow experience**
 
+![More than wow](https://cpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/3/41/files/2016/10/my-doge-zzb6qh-300x300.png)
+
 ## Sample Website?
 **Hosting web sample https://formmagang2019.000webhostapp.com/login**
+
+![More than wow](https://github.com/AlexanderGracetantiono/image/blob/master/pendataanmagang.PNG)
 
 Login Password: hello123!@#
 
